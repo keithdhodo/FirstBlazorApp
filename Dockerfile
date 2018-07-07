@@ -43,4 +43,4 @@ RUN dotnet help
 # Create a new blazor App
 # RUN dotnet new blazor -o . --force
 #
-RUN dotnet run
+#RUN dotnet run
